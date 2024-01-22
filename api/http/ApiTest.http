@@ -1,0 +1,7 @@
+POST http://localhost:8080/
+Content-Type: application/json; charset=UTF-8
+
+{
+    "title": "second todo",
+    "done": false
+}
